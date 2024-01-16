@@ -14,7 +14,7 @@ The last 5 year i've started to work with AI - Machine and Deep Learning project
 <a target="_blank" href="https://www.linkedin.com/in/ricardo-data-engineer-scientist/">
   <img align="left" alt="LinkdeIN" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<br /><br />
 
 ## 🚀 My Skills
 
@@ -38,7 +38,7 @@ The last 5 year i've started to work with AI - Machine and Deep Learning project
 
 
 
----
+<br />
 
 ## ⭐ GitHub Stats
 
